@@ -1,5 +1,5 @@
 ## 🌐 Next-Autenticacao-Firebase
-Exemplo de Dashboard com autenticação Google Firebase em Next.
+Exemplo de Autenticação com Google Firebase em Next.
 
 #### 📋 O que voçê vai ver nesse Projeto
 | Tecnologia | Descrição |
