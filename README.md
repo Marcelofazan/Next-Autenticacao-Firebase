@@ -1,5 +1,5 @@
 ## 🌐 Next-Autenticacao-Firebase
-Exemplo de Autenticação com Google Firebase em Next.
+Exemplo de autenticação com Google Firebase em Next.
 
 #### 🎨 Aqui está uma demonstração do projeto
 <img width="1174" height="609" alt="Autenticação" src="https://github.com/user-attachments/assets/73719da2-4de0-424b-aa2a-312526dc4afc" />
