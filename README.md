@@ -5,7 +5,7 @@ Exemplo de Dashboard com autenticação Google Firebase em Next.
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **Firebase** | Plataforma de desenvolvimento de aplicativos móveis e web criada pelo Google. |
-| **js-cookie**  | biblioteca JavaScript simples e leve para criar, ler e apagar cookies no navegador |
+| **js-cookie**  | Biblioteca JavaScript simples e leve para criar, ler e apagar cookies no navegador |
 
 #### 💬 Requisitos do Projeto
 - Necessário configurar arquivo .env
