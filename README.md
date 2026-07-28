@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 - Endpoint API **http://localhost:3000/api/hello**
-- Abrir a plicação em **http://localhost:3000**.
+- Abrir a aplicação em **http://localhost:3000**.
 
 #### ⚙️ Configuração Autenticação Firebase Console
 - Acesse https://console.firebase.google.com/, selecione a opção Criar um novo projeto do Firebase.
